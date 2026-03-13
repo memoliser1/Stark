@@ -28,6 +28,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/Stark.git
-   
-2. Download The .zip file from [Releases](https://github.com/memoliser1/Stark/releases)
+      git clone https://github.com/yourusername/Stark.git
+         
+         2. Download The .zip file from [Releases](https://github.com/memoliser1/Stark/releases)
+         
