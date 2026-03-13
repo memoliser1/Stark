@@ -6,7 +6,7 @@
 
 **Stark** is an intelligent code explanation tool that helps developers understand complex code snippets, Test/Run your codes, and improve their programming skills. Whether you're a beginner or an experienced coder, Stark acts as your personal coding assistant.
 
-![Stark App Icon](link-to-your-icon.png) *<!-- Replace with actual icon path when available -->*
+![Stark App Icon](https://github.com/memoliser1/Stark/blob/main/Assets/Icon.png) *<!-- Replace with actual icon path when available -->*
 
 ## ✨ Features
 
@@ -31,4 +31,3 @@
       git clone https://github.com/yourusername/Stark.git
          
          2. Download The .zip file from [Releases](https://github.com/memoliser1/Stark/releases)
-         
