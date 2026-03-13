@@ -20,7 +20,7 @@
 
 ### Prerequisites
 
-- Go to Releases Page.
+- Go to [Releases](https://github.com/memoliser1/Stark/releases) Page.
 - Download The Latest exe Version
 - Enjoy :)
 
