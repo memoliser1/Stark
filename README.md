@@ -19,7 +19,7 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-
+- Download ([Python](https://www.python.org/downloads/), Node.js {Optionl} )
 - Go to [Releases](https://github.com/memoliser1/Stark/releases) Page.
 - Download The Latest exe Version
 - Enjoy :)
