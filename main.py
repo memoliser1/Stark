@@ -25,7 +25,7 @@ def get_resource_path(relative_path):
         return os.path.join(base_path, relative_path)
 
 # Replace this with your actual Gemini API Key from https://aistudio.google.com/
-GEMINI_API_KEY = "AIzaSyAm8avotjIQcT6ymHD4bzGmwSX-uUePE2U"
+GEMINI_API_KEY = "getUrsMan"
 
 class AnalysisWorker(QThread):
     finished = pyqtSignal(dict)
